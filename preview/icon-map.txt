@@ -1,0 +1,19 @@
+# Corenya Vanilla - ikon karakter haritasi
+# Bu dosya Generate-Pack.ps1 tarafindan uretilmistir.
+
+globe      U+E000  \ue000
+star       U+E001  \ue001
+crown      U+E002  \ue002
+gem        U+E003  \ue003
+skull      U+E004  \ue004
+swords     U+E005  \ue005
+coin       U+E006  \ue006
+calendar   U+E007  \ue007
+users      U+E008  \ue008
+vote       U+E009  \ue009
+clock      U+E00A  \ue00a
+heart      U+E00B  \ue00b
+shield     U+E00C  \ue00c
+bolt       U+E00D  \ue00d
+cross      U+E00E  \ue00e
+arrow      U+E00F  \ue00f

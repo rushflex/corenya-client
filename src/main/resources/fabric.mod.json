@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "corenya",
+	"version": "${version}",
+	"name": "Corenya Client",
+	"description": "A clean, modular client foundation: module system, ClickGUI, config profiles and HUD.",
+	"authors": [
+		"Corenya"
+	],
+	"license": "MIT",
+	"icon": "assets/corenya/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"com.corenya.CorenyaClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
